@@ -1,9 +1,9 @@
-del sobs_sp.o
+del fixes.o
 
-wla-gb -o sobs_sp.o sobs_sp.asm
+wla-gb -o fixes.o fixes.asm
 
 wlalink link sobs_sp_patched.gbc
 
-del sobs_sp.o
+del fixes.o
 
 pause
