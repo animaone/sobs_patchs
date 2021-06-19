@@ -18,7 +18,7 @@
 
  1. #### download wla-dx tools and uncompress them in the same folder as this patch(you just need wla-gb.exe and wlalink.exe)
  2. #### configure the original rom location in the file fixes.asm
- 3. #### them run the file makeme.bat
+ 3. #### run the file makeme.bat
  4. #### the rom will be generated with filename sobs_sp_patched.gbc
 
 ![image](https://user-images.githubusercontent.com/31348553/120906207-e1db3680-c62d-11eb-9a63-1546368b8a80.png)
