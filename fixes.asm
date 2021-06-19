@@ -14,9 +14,10 @@
 .ROMBANKS 256
 
 
-.BACKGROUND "..\..\sobs_sp.gbc"
+.BACKGROUND "..\!out.gbc"
 
 
 
 .INCLUDE "fix_item_bug.asm"
 .INCLUDE "fix_monster_bug.asm"
+.INCLUDE "fix_profiles_bug.asm"
