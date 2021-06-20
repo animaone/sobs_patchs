@@ -1,5 +1,5 @@
 
-## Star Ocean Blue Sphere Spanish Translation GBC ROM patch
+## Star Ocean Blue Sphere Spanish Translation GBC ROM patches
 
 #### To be applied in the spanish rom translation new version that will be online soon. Full patch for jp rom will be created soon.
 
