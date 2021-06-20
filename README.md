@@ -9,9 +9,9 @@
    
  - #### fix monsters names rendering in battles and Monster Book
 
- 
-
  - #### fix profiles text rendering
+ 
+ - #### fix cutscenes text rendering
 
 
 #### How to apply the patch:
