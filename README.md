@@ -5,13 +5,13 @@
 
 
 #### Fixed bugs:
- - #### fix items names font rendering
+ - #### items names font rendering
    
- - #### fix monsters names rendering in battles and Monster Book
+ - #### monsters names rendering in battles and Monster Book
 
- - #### fix profiles text rendering
+ - #### profiles text rendering
  
- - #### fix cutscenes text rendering
+ - #### cutscenes text rendering
 
 
 #### How to apply the patch:
