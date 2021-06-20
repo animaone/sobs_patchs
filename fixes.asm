@@ -21,3 +21,4 @@
 .INCLUDE "fix_item_bug.asm"
 .INCLUDE "fix_monster_bug.asm"
 .INCLUDE "fix_profiles_bug.asm"
+.INCLUDE "fix_opening_bug.asm"
