@@ -37,12 +37,14 @@
 			jr   nz,@val_19
 			ld   d,$40
 			ld   b,$23
+			dec  e ; slide tile one byte (hack for new fonts)
 			jr ending
 		@val_19:
 			cp   a,$19
 			jr   nz,ending1
 			ld   d,$50
 			ld   b,$23
+			dec  e ; slide tile one byte (hack for new fonts)
 			jr ending
 		ending1:
 			ld   b,$3d
