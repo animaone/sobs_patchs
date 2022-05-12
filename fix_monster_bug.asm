@@ -65,12 +65,14 @@
 .ENDS
 
 
+/* Disabled because it causes a bug in the field tiles(not related to monster name buffer size)
 .bank $6c .slot 1
 .org $5a97 - $4000
 .SECTION "fix_6c_5a97" OVERWRITE
 		.db byte8
 		.db byte16
 .ENDS
+*/
 
 
 .bank $b0 .slot 1

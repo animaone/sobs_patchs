@@ -22,3 +22,5 @@
 .INCLUDE "fix_monster_bug.asm"
 .INCLUDE "fix_profiles_bug.asm"
 .INCLUDE "fix_opening_bug.asm"
+.INCLUDE "fix_teleport_menu_bug.asm"
+.INCLUDE "fix_dialog_bug_19.asm"
