@@ -73,7 +73,7 @@ compare_patch_2:
 						jp   $7f82
 						
 	@compare_19:
-						cp   a,$18
+						cp   a,$19
 						jp   nz,$7f78
 						ld   de,$5000
 						ld   a,(hl)
