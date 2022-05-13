@@ -25,3 +25,4 @@
 .INCLUDE "fix_opening_bug_1.asm"
 .INCLUDE "fix_teleport_menu_bug.asm"
 .INCLUDE "fix_dialog_bug_19.asm"
+.INCLUDE "fix_dialog_bug_19_ohnoes.asm"
