@@ -1,3 +1,7 @@
+
+; this patch redefines the monster name buffer location in RAM 
+
+;location RAM:dd30 (original was d4e0)
 .define byte16 $dd
 .define byte8  $30
 
