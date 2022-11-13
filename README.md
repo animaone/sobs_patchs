@@ -13,7 +13,7 @@
  
  - #### cutscenes text rendering
  
-#### Modified ROM switch bytes location/offsets
+#### Modified ROM switch bytes location/offsets:
 |offset|modified/not|
 |------|------------|
 |00:0f8a|modified (3b18)|
