@@ -12,6 +12,24 @@
  - #### profiles text rendering
  
  - #### cutscenes text rendering
+ 
+#### Modified ROM switch bytes location/offsets
+|offset|modified/not|
+|------|------------|
+|00:0f8a|modified (3b18)|
+|00:1005|modified (3b18)|
+|00:107b|modified (3b18)|
+|00:10e6|modified (3b18)|
+|00:116a|modified (3b18)|
+|09:49b3|not modified|
+|0d:4401|modified|
+|0e:40e1|modified|
+|0e:4545|modified|
+|0e:48c6|modified|
+|0e:5aa7|not modified|
+|0e:63e7|modified|
+|a8:5480|modified|
+|b1:6d26|modified|
 
 
 #### How to apply the patch:
