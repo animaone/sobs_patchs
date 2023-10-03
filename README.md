@@ -1,7 +1,7 @@
 
 ## Star Ocean Blue Sphere Spanish Translation GBC ROM patches
 
-#### To be applied in 343(alejandro)'s spanish rom translation new version that will be online soon.
+#### Patches used to fix 343(alejandro)'s spanish ROM translation (already implemented in the last ROM release).
 
 
 #### Fixed bugs:
